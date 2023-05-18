@@ -1,0 +1,7 @@
+.gitignore U
+#Don't upload data files
+*.csv
+
+#Jupyter notebook
+
+.ipynb_checkpoints
