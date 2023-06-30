@@ -1,0 +1,53 @@
+"Deletion"
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	deleted:    notebooks/capston_electricity_eda.ipynb
+#
+# Changes not staged for commit:
+#	modified:   .gitignore
+#	deleted:    model/sentiment-model.pkl
+#	deleted:    notebooks/02-eda.ipynb
+#	deleted:    notebooks/03-pre-processing.ipynb
+#	deleted:    notebooks/04-modelling.ipynb
+#	deleted:    notebooks/05-findings.ipynb
+#	modified:   notebooks/readme.md
+#	modified:   references/papers.md
+#	deleted:    reports/figures/project-flowchart.svg
+#	deleted:    src/__init__.py
+#	deleted:    src/data/__init__.py
+#	deleted:    src/data/make_dataset.py
+#	deleted:    src/features/__init__.py
+#	deleted:    src/features/build_features.py
+#	deleted:    src/models/__init__.py
+#	deleted:    src/models/predict_model.py
+#	deleted:    src/models/train_model.py
+#	deleted:    src/visualization/__init__.py
+#	deleted:    src/visualization/visualize.py
+#
+# Untracked files:
+#	data/UK.txt
+#	data/desktop.ini
+#	data/monthly_validation_data
+#	data/statistic_id322616_average-daily-temperatures-in-the-united-kingdom-2001-2022.xlsx
+#	demoday/
+#	env/
+#	model/ARIMA_evaluation_diff.pkl
+#	model/SARIMA_result_table.pkl
+#	model/daily_sarima.pkl
+#	model/desktop.ini
+#	model/monthly_arima.pkl
+#	model/monthly_sarima.pkl
+#	model/monthly_sarimax.pkl
+#	model/monthly_sarimax2.pkl
+#	notebooks/06-validation-data.ipynb
+#	notebooks/desktop.ini
+#	references/desktop.ini
+#	reports/desktop.ini
+#	reports/sro_capstone_report.pdf
+#

@@ -1,7 +1,8 @@
 .gitignore U
 #Don't upload data files
 *.csv
-
+08-additional_plots.ipynb
+07-additional_plots.ipynb
 #Jupyter notebook
 
 .ipynb_checkpoints

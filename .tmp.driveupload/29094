@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 74e6c7ae5d7ca130c01a2fb9e3fb537f50d2b2b5 Simón Román <simon.roman@gmail.com> 1684422131 +0100	clone: from github.com:brainstation-datascience/capstone-project-s-roman.git
+74e6c7ae5d7ca130c01a2fb9e3fb537f50d2b2b5 79f71474f0773cd55b8b47a305e4529d8519dc99 Simón Román <simon.roman@gmail.com> 1684425784 +0100	commit: Set environment, updated files, created gitignore
+79f71474f0773cd55b8b47a305e4529d8519dc99 e5b4c0fa6e4404af0f342b62ff49ad5ffc15a05c Simón Román <simon.roman@gmail.com> 1684427355 +0100	commit: Set my env, updated file, gitignore
+e5b4c0fa6e4404af0f342b62ff49ad5ffc15a05c 600a4af820007327a8a67f4637977685c8ee3798 Simón Román <simon.roman@gmail.com> 1684571223 +0100	commit: Split the notebook. Deleted model files.
+600a4af820007327a8a67f4637977685c8ee3798 d4c5f9f30953c046d4c76554a4b1b5b5b4699b66 Simón Román <simon.roman@gmail.com> 1684571945 +0100	commit: Cleaned files
+d4c5f9f30953c046d4c76554a4b1b5b5b4699b66 2dfb619e2c6c4c41e786d0f30031dc3884075b09 Simón Román <simon.roman@gmail.com> 1686300213 +0100	commit: First draft for loading, EDA, and preprocessing
+2dfb619e2c6c4c41e786d0f30031dc3884075b09 1104f77612a0c58f3c88e0aa148d25be402e8c3b Simón Román <simon.roman@gmail.com> 1686587050 +0100	commit: Cleaned notebooks
+1104f77612a0c58f3c88e0aa148d25be402e8c3b 5297f1d470d83a5bfc25d404908001801d8f166a Simón Román <simon.roman@gmail.com> 1687440016 +0100	commit: "Upload check"
+5297f1d470d83a5bfc25d404908001801d8f166a 941f07feee27ea2be7ac339196f9081e44f2ff0b Simón Román <simon.roman@gmail.com> 1687440110 +0100	commit: "test"
+941f07feee27ea2be7ac339196f9081e44f2ff0b 4b85cb5bfa92b74914fb9374b55cad117625de50 Simón Román <simon.roman@gmail.com> 1687440133 +0100	commit: "test"
+4b85cb5bfa92b74914fb9374b55cad117625de50 5f9560935c0cc3818863e8bef427fffb6e06697b Simón Román <simon.roman@gmail.com> 1687632576 +0100	commit: "Test"
+5f9560935c0cc3818863e8bef427fffb6e06697b d13dc705d04a2575736b63a836be85c247021474 Simón Román <simon.roman@gmail.com> 1688135193 +0100	commit: "Final commit!"
+d13dc705d04a2575736b63a836be85c247021474 1f889fe639f7a9a5382cd4775eb25edeb07e3b6e Simón Román <simon.roman@gmail.com> 1688135523 +0100	commit: Final commit
+1f889fe639f7a9a5382cd4775eb25edeb07e3b6e 1f889fe639f7a9a5382cd4775eb25edeb07e3b6e Simón Román <simon.roman@gmail.com> 1688136304 +0100	Branch: renamed refs/heads/main to refs/heads/main
+1f889fe639f7a9a5382cd4775eb25edeb07e3b6e 6c663379e8969408e59608ac91496eb463d8a2c9 Simón Román <simon.roman@gmail.com> 1688138225 +0100	commit: notebook update
+6c663379e8969408e59608ac91496eb463d8a2c9 1f889fe639f7a9a5382cd4775eb25edeb07e3b6e Simón Román <simon.roman@gmail.com> 1688138383 +0100	reset: moving to HEAD^
+1f889fe639f7a9a5382cd4775eb25edeb07e3b6e d13dc705d04a2575736b63a836be85c247021474 Simón Román <simon.roman@gmail.com> 1688138389 +0100	reset: moving to HEAD^
+d13dc705d04a2575736b63a836be85c247021474 5f9560935c0cc3818863e8bef427fffb6e06697b Simón Román <simon.roman@gmail.com> 1688138397 +0100	reset: moving to HEAD^
+5f9560935c0cc3818863e8bef427fffb6e06697b 4b85cb5bfa92b74914fb9374b55cad117625de50 Simón Román <simon.roman@gmail.com> 1688138405 +0100	reset: moving to HEAD^
+4b85cb5bfa92b74914fb9374b55cad117625de50 941f07feee27ea2be7ac339196f9081e44f2ff0b Simón Román <simon.roman@gmail.com> 1688138416 +0100	reset: moving to HEAD^
+941f07feee27ea2be7ac339196f9081e44f2ff0b 5297f1d470d83a5bfc25d404908001801d8f166a Simón Román <simon.roman@gmail.com> 1688138417 +0100	reset: moving to HEAD^
+5297f1d470d83a5bfc25d404908001801d8f166a 1104f77612a0c58f3c88e0aa148d25be402e8c3b Simón Román <simon.roman@gmail.com> 1688138418 +0100	reset: moving to HEAD^
+1104f77612a0c58f3c88e0aa148d25be402e8c3b 2dfb619e2c6c4c41e786d0f30031dc3884075b09 Simón Román <simon.roman@gmail.com> 1688138419 +0100	reset: moving to HEAD^
+2dfb619e2c6c4c41e786d0f30031dc3884075b09 d4c5f9f30953c046d4c76554a4b1b5b5b4699b66 Simón Román <simon.roman@gmail.com> 1688138423 +0100	reset: moving to HEAD^
+d4c5f9f30953c046d4c76554a4b1b5b5b4699b66 600a4af820007327a8a67f4637977685c8ee3798 Simón Román <simon.roman@gmail.com> 1688138427 +0100	reset: moving to HEAD^
+600a4af820007327a8a67f4637977685c8ee3798 e5b4c0fa6e4404af0f342b62ff49ad5ffc15a05c Simón Román <simon.roman@gmail.com> 1688138429 +0100	reset: moving to HEAD^
+e5b4c0fa6e4404af0f342b62ff49ad5ffc15a05c 35ca8f0872b8487d508e6aaa5cae0cc282928f3a Simón Román <simon.roman@gmail.com> 1688138465 +0100	commit: first notebook
+35ca8f0872b8487d508e6aaa5cae0cc282928f3a 1fd38ff97a0d86ac9340e2d75cb5d6bec33d4afc Simón Román <simon.roman@gmail.com> 1688156959 +0100	commit: data loadk
+1fd38ff97a0d86ac9340e2d75cb5d6bec33d4afc b151d50f77d12110c9eb2784584628244982d8fd Simón Román <simon.roman@gmail.com> 1688157104 +0100	commit: baseline
+b151d50f77d12110c9eb2784584628244982d8fd 1bbee24aeaf4647a3daacbe2a00cd90cce08ad45 Simón Román <simon.roman@gmail.com> 1688157146 +0100	commit: modeling
+1bbee24aeaf4647a3daacbe2a00cd90cce08ad45 3425db73e88e7239e9aa865ab4a00350622641a4 Simón Román <simon.roman@gmail.com> 1688157509 +0100	commit: Analysis
+3425db73e88e7239e9aa865ab4a00350622641a4 0c0ecaf362b6e0716e5afbaf16678da60356d7c0 Simón Román <simon.roman@gmail.com> 1688157612 +0100	commit: "Deletion"
+0c0ecaf362b6e0716e5afbaf16678da60356d7c0 56f1769027aee609385406dbd4bcda361eaa6ffe Simón Román <simon.roman@gmail.com> 1688158168 +0100	commit: "Deletion"
